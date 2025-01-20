@@ -1,9 +1,15 @@
 #include <stdio.h>
 
-
-int main() 
-{ 
-	printf("hello world");
-	return 0; 
+int odejmowanie(int a, int b) {
+    return a - b;
 }
 
+
+int kwadrat(int x) {
+    return x * x;
+}
+
+int main() {
+
+    return 0;
+}
